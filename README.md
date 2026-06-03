@@ -1,7 +1,7 @@
 # Customer_Support
 Customer's Issues
 
-URL:  https://customer-support-08u2.onrender.com
+URL:  https://bhawanaik2004-png.github.io/Customer_Support_trial/
 
 # ⚡ Nexus Support Desk
 
