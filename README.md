@@ -1,7 +1,7 @@
 # Customer_Support
 Customer's Issues
 
-URL: https://easy-suns-invite.loca.lt
+URL:  https://customer-support-08u2.onrender.com
 
 # ⚡ Nexus Support Desk
 
